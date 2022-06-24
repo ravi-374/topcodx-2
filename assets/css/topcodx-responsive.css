@@ -174,12 +174,12 @@
         justify-content: center;
     }
 
-    .notech-more__left {
+    .topcodx-more__left {
         max-width: 600px;
         margin: 0 auto;
     }
 
-    .notech-more__right {
+    .topcodx-more__right {
         max-width: 600px;
         margin: 39px auto 0;
     }
@@ -518,12 +518,12 @@
         margin-left: 0px;
     }
 
-    .notech-more__left {
+    .topcodx-more__left {
         max-width: 600px;
         margin: 0 auto;
     }
 
-    .notech-more__right {
+    .topcodx-more__right {
         max-width: 600px;
         margin: 39px auto 0;
     }
@@ -533,7 +533,7 @@
     }
 
     .contact-one__form {
-        border-left: 1px solid var(--notech-bdr-color);
+        border-left: 1px solid var(--topcodx-bdr-color);
     }
 
     .we-stand__text-box {
@@ -1023,15 +1023,15 @@
         justify-content: center;
     }
 
-    .notech-more__left {
+    .topcodx-more__left {
         margin-right: 0;
     }
 
-    .notech-more__right {
+    .topcodx-more__right {
         margin-top: 39px;
     }
 
-    .notech-more__img:before {
+    .topcodx-more__img:before {
         display: none;
     }
 
@@ -1044,7 +1044,7 @@
     }
 
     .contact-one__form {
-        border-left: 1px solid var(--notech-bdr-color);
+        border-left: 1px solid var(--topcodx-bdr-color);
         padding: 29px;
     }
 
@@ -1468,7 +1468,7 @@
 
     .main-slider-three h2 {
         font-size: 70px;
-        color: var(--notech-white);
+        color: var(--topcodx-white);
         line-height: 70px;
         font-weight: 700;
         margin-bottom: 32px;
@@ -1561,7 +1561,7 @@
 
     .main-slider-three h2 {
         font-size: 39px;
-        color: var(--notech-white);
+        color: var(--topcodx-white);
         line-height: 49px;
         font-weight: 700;
         margin-bottom: 32px;
@@ -1636,11 +1636,11 @@
     }
 
     .main-menu-two .mobile-nav__toggler {
-        color: var(--notech-white);
+        color: var(--topcodx-white);
     }
 
     .main-menu-three .mobile-nav__toggler {
-        color: var(--notech-white);
+        color: var(--topcodx-white);
     }
 
 
@@ -1681,11 +1681,11 @@
     }
 
     .main-menu-two .mobile-nav__toggler {
-        color: var(--notech-white);
+        color: var(--topcodx-white);
     }
 
     .main-menu-three .mobile-nav__toggler {
-        color: var(--notech-white);
+        color: var(--topcodx-white);
     }
 
 
@@ -1739,11 +1739,11 @@
     }
 
     .main-menu-two .mobile-nav__toggler {
-        color: var(--notech-white);
+        color: var(--topcodx-white);
     }
 
     .main-menu-three .mobile-nav__toggler {
-        color: var(--notech-white);
+        color: var(--topcodx-white);
     }
 
 

@@ -4,8 +4,8 @@
 	--toolbar-font: var(--notch-font);
 	--toolbar-border-radius: 10px;
 	--toolbar-letter-spacing: 0;
-	--toolbar-black: var(--notech-black);
-	--toolbar-primary: var(--notech-base);
+	--toolbar-black: var(--topcodx-black);
+	--toolbar-primary: var(--topcodx-base);
 }
 
 .style-switcher {

@@ -1,7 +1,7 @@
 :root {
-  --notech-bdr-color: rgba(255, 255, 255, 0.1);
-  --notech-gray: #aea8b9;
-  --notech-extra: #1b1525;
+  --topcodx-bdr-color: rgba(255, 255, 255, 0.1);
+  --topcodx-gray: #aea8b9;
+  --topcodx-extra: #1b1525;
 }
 
 body,
@@ -28,7 +28,7 @@ body,
 .project-details__details,
 .blog-two__carousel.owl-carousel .owl-dots .owl-dot,
 .main-menu {
-  background-color: var(--notech-extra);
+  background-color: var(--topcodx-extra);
 }
 
 .project-two__carousel.owl-carousel .owl-dots .owl-dot,
@@ -39,7 +39,7 @@ body,
 
 .project-two__carousel.owl-carousel .owl-dots .owl-dot.active,
 .blog-two__carousel.owl-carousel .owl-dots .owl-dot.active {
-  background-color: var(--notech-base);
+  background-color: var(--topcodx-base);
   opacity: 1;
 }
 
@@ -62,7 +62,7 @@ body,
 .faq-one-accrodion .accrodion-title h4::before,
 .team-details__education-awards li h4,
 .main-header__top-right-social a {
-  color: var(--notech-gray);
+  color: var(--topcodx-gray);
 }
 
 .main-header--one .main-menu__left .main-menu__logo .logo-light,
@@ -90,7 +90,7 @@ body,
 .delivering-it__content-title,
 .services-two__title,
 .counter-two__count-box-inner h3,
-.notech-more__title,
+.topcodx-more__title,
 .sidebar__tags-list a,
 .sidebar__category-list li.active a,
 .sidebar__category-list li:hover a,
@@ -154,7 +154,7 @@ body,
 .testimonial-one__text,
 .why-choose-one__points li .text p,
 .get-to-know__points li .text p {
-  color: var(--notech-gray);
+  color: var(--topcodx-gray);
 }
 
 .testimonial-one-shape img,
@@ -188,7 +188,7 @@ body,
 }
 
 .services-three__icon {
-  border-color: var(--notech-bdr-color);
+  border-color: var(--topcodx-bdr-color);
 }
 
 .team-one:before {
@@ -198,8 +198,8 @@ body,
 .message-one .comment-form__input-box input[type="text"],
 .message-one .comment-form__input-box textarea,
 .message-one .comment-form__input-box input[type="email"] {
-  background-color: var(--notech-extra);
-  color: var(--notech-gray);
+  background-color: var(--topcodx-extra);
+  color: var(--topcodx-gray);
 }
 
 .testimonial-page .testimonial-two__single-inner {
@@ -207,10 +207,10 @@ body,
 }
 
 .project-one__btn {
-  background-color: var(--notech-bdr-color);
+  background-color: var(--topcodx-bdr-color);
 }
 
 .carousel-dot-style-1 .owl-dots .owl-dot span {
   background-color: #fff;
 }
-/*# sourceMappingURL=notech-dark.css.map */
+/*# sourceMappingURL=topcodx-dark.css.map */
